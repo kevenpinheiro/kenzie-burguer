@@ -1,4 +1,4 @@
-# Hamburgueria ⤵
+# Kenzie Burguer ⤵
 
  This project was developed thinking about a digital burger restaurant, developed with React, SCSS and other technologies
 
